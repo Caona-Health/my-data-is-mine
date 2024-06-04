@@ -15,7 +15,7 @@ To request your data from your cycle tracker app, please follow these steps:
     2. Flo: support@flo.health
     3. Hormona: hello@hormona.io
     4. Cycles: contact@perigee.se
-    5. **Natural Cycles: support@naturalcycles.com
+    5. Natural Cycles: support@naturalcycles.com
 5. Send email to your cycle tracker app from the email address you have used to register in the app.
 
 If you face any challenges, please don't hesitate to reach out.
